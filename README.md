@@ -1,5 +1,4 @@
 # vue-waterfall
-# vue-waterfall
 
 > my first vue project
 
